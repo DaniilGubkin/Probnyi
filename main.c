@@ -9,6 +9,7 @@ int main()
 	printf("Hello, %s", word);
 	//просто коммент
 	// ещё один коммент
+	//Создал новую ветку
 	getch();
 	return 0;
 }
