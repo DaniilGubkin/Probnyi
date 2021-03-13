@@ -9,6 +9,7 @@ int main()
 	printf("Hello, %s", word);
 	//просто коммент
 	// ещё один коммент
+	// new commit
 	getch();
 	return 0;
 }
