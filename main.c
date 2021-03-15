@@ -11,6 +11,7 @@ int main()
 	// ещё один коммент
 	// new commit
 	// my rep is not work
+	// ...
 	getch();
 	return 0;
 }
